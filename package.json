@@ -1,0 +1,20 @@
+{
+  "name": "smile",
+  "version": "0.0.1",
+  "description": "Simple image movies l and e",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravan414/smile.git"
+  },
+  "author": "Sravan Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravan414/smile/issues"
+  },
+  "homepage": "https://github.com/sravan414/smile#readme",
+  "devDependencies": {}
+}
